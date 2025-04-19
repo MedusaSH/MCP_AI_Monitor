@@ -161,7 +161,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus d'informatio
 
 ## 👥 Auteurs
 
-- **MedusaSH** - *Développement initial* - [VotreGitHub](https://github.com/MedusaSH)
+- **MedusaSH** - *Développement initial* - [Github](https://x.com/MedusaActus)
 
 ## 🙏 Remerciements
 
